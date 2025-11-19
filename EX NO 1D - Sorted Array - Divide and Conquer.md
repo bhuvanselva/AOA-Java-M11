@@ -23,6 +23,7 @@ If (m + n) is odd, skip (m + n)/2 elements, then take the next smallest element 
 5.Display the computed median and stop the program.  
 
 ## Program:
+```
 /*
 Program to implement Reverse a String
 Developed by: Bhuvaneshwari S
@@ -94,7 +95,7 @@ public class Solution {
         sc.close();
     }
 }
-
+```
 ## Output:
 <img width="883" height="330" alt="image" src="https://github.com/user-attachments/assets/ac923631-9329-41ca-b407-9fe4c99ceade" />
 
