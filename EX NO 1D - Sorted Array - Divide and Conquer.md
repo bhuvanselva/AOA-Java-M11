@@ -96,9 +96,7 @@ public class Solution {
 }
 
 ## Output:
-<img width="883" height="330" alt="image" src="https://github.com/user-attachments/assets/93edb923-ea8d-4403-8a1a-88b24c6f2d28" />
-
-
+<img width="883" height="330" alt="image" src="https://github.com/user-attachments/assets/ac923631-9329-41ca-b407-9fe4c99ceade" />
 
 ## Result:
 The program successfully implemented and the expected output is verified.
