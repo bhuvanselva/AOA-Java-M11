@@ -29,7 +29,7 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 Program to implement Reverse a String
 Developed by: Bhuvaneshwari S
 Register Number: 212222220008
-
+/*
 import java.util.Scanner;
 
 public class Solution {
@@ -55,7 +55,7 @@ public class Solution {
         scanner.close();
     }
 }
-/*
+
 ```
 
 ## Output:
@@ -68,5 +68,4 @@ The program successfully implemented and the expected output is verified.
 
 
 
-## Result:
-The program successfully implemented and the expected output is verified.
+
