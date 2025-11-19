@@ -94,7 +94,6 @@ public class Solution {
         sc.close();
     }
 }
-```
 
 ## Output:
 <img width="883" height="330" alt="image" src="https://github.com/user-attachments/assets/93edb923-ea8d-4403-8a1a-88b24c6f2d28" />
