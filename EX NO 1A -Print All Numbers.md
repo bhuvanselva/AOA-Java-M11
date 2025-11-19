@@ -5,7 +5,7 @@
 To Write a Java program that takes an integer input N from the user and prints all the numbers from 1 to N, separated by spaces, on a single line..
 
 ## Algorithm
-```
+
 1.Start the program.
 
 2.Input an integer N from the user.
@@ -20,8 +20,7 @@ While i <= N, print i followed by a space.
 
 Increment i by 1.
 
-End loop and stop the program.
-``` 
+End loop and stop the program. 
 
 ## Program:
 ```
