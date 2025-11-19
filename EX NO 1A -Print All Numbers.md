@@ -31,11 +31,6 @@ Developed by: Bhuvaneshwari S
 Register Number: 212222220008
 
 /*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
-
 import java.util.*; 
 public class demo   
 {
